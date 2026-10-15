@@ -1,5 +1,10 @@
 # typewriter-effect-in-pure-css
-This works well for hero sections where you want to cycle through a handful of words or roles without relying on JavaScript. Developers typically use them for their portfolio sites.  Just make sure the background behind the text is a solid color that matches the page, otherwise, the typing effect can expose the edge of the animation.
+
+This works well for hero sections where you want to cycle through a handful of words or roles without relying on JavaScript. Developers typically use them for their portfolio sites. Just make sure the background behind the text is a solid color that matches the page, otherwise, the typing effect can expose the edge of the animation.
+
+<img src="recording-2026-10-15-121957.gif"
+       alt="Watch Backwards Poster Demo"
+       width="600">
 
 Source: https://prismic.io/blog/css-animation-examples
 
